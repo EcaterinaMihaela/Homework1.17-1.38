@@ -15,6 +15,6 @@ public class TestareSuma
     public void test2()
     {
         Suma adunare = new Suma();
-        assertEquals(7,adunare.aduna(5,3));
+        assertEquals(7.0f,adunare.aduna(5.0f,3.0f),0.0001f);
     }
 }
