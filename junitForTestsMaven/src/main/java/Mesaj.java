@@ -1,4 +1,4 @@
-public class Mesaj
+public class Informatii
 {
     private String mesaj;
 
